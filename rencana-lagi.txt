@@ -3,5 +3,6 @@ rencana1
 rencana2
 * rencana
 rencana3
+* rencana
 rencana4
 rencana5
